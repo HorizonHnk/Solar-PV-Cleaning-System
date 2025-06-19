@@ -135,7 +135,7 @@
 *ESP32 development board with motor drivers, sensors, and power management circuits*
 
 ### Mechanical Structure
-![Mechanical Design](images/mechanical-structure.png)
+![Mechanical Design](https://github.com/HorizonHnk/Solar-PV-Cleaning-System/blob/main/Untitled.png?raw=true)
 *Frame, rails, brushes, and water distribution system for effective panel cleaning*
 
 ### Circuit Connections
