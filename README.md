@@ -131,7 +131,7 @@
 *Complete solar panel cleaning robot with ESP32 controller, ultrasonic sensors, and cleaning mechanisms*
 
 ### Electronic Components Layout
-![Electronic Components](images/electronics-layout.png)
+![Electronic Components](https://github.com/HorizonHnk/Solar-PV-Cleaning-System/blob/main/Arduino%20Components.png?raw=true)
 *ESP32 development board with motor drivers, sensors, and power management circuits*
 
 ### Mechanical Structure
