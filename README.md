@@ -143,7 +143,7 @@
 *Detailed wiring diagram showing ESP32 connections to motors, sensors, and pump control*
 
 ### Web Interface
-![Web Control Interface](https://github.com/HorizonHnk/Solar-PV-Cleaning-System/blob/main/Web%20View.png?raw=true)
+![Web Control Interface](https://github.com/HorizonHnk/Solar-PV-Cleaning-System/blob/main/website.png?raw=true)
 *Responsive web interface for remote monitoring and control via WiFi*
 
 ---
