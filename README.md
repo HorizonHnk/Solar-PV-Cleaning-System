@@ -231,7 +231,7 @@ The system creates a WiFi access point with a responsive web interface:
 
 ## 🔌 Circuit Diagram
 
-![Complete Circuit Diagram](https://github.com/HorizonHnk/Solar-PV-Cleaning-System/blob/main/Arduino%20Components.png?raw=true)
+![Complete Circuit Diagram](https://github.com/HorizonHnk/Solar-PV-Cleaning-System/blob/main/new%20Untitled.png?raw=true)
 *Comprehensive wiring diagram showing all connections*
 
 
