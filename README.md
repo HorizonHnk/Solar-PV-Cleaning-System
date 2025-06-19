@@ -4,16 +4,26 @@
 [![Arduino](https://img.shields.io/badge/Arduino-ESP32-00979D?logo=arduino&logoColor=white)](https://www.arduino.cc/)
 [![Platform](https://img.shields.io/badge/Platform-ESP32-red)](https://www.espressif.com/en/products/socs/esp32)
 [![Version](https://img.shields.io/badge/Version-1.0.0-blue)](https://github.com/HorizonHnk/solar-pv-cleaning-system)
+[![Website](https://img.shields.io/badge/Website-Live-brightgreen)](https://glowing-granita-8fe486.netlify.app/)
+[![YouTube](https://img.shields.io/badge/YouTube-Tutorials-red?logo=youtube)](https://www.youtube.com/playlist?list=PLrZbkNpNVSwxkeTpdWLuhH0i63HLL73QL)
 
 > **An autonomous ESP32-based solar panel cleaning robot with WiFi control, ultrasonic sensors, and coordinated motor movement for maintaining optimal solar panel efficiency.**
+
+## 🌐 **Project Website & Tutorials**
+
+📱 **Live Website:** [https://glowing-granita-8fe486.netlify.app/](https://glowing-granita-8fe486.netlify.app/)
+
+🎥 **Video Tutorials:** [YouTube Playlist - Complete Build Guide](https://www.youtube.com/playlist?list=PLrZbkNpNVSwxkeTpdWLuhH0i63HLL73QL)
 
 ---
 
 ## 📋 Table of Contents
 
 - [🌞 Solar PV Cleaning System](#-solar-pv-cleaning-system)
+  - [🌐 Project Website & Tutorials](#-project-website--tutorials)
   - [📋 Table of Contents](#-table-of-contents)
   - [✨ Features](#-features)
+  - [🎥 Video Tutorial Series](#-video-tutorial-series)
   - [🛠️ Hardware Components](#️-hardware-components)
   - [🏗️ System Architecture](#️-system-architecture)
   - [📷 System Images](#-system-images)
@@ -32,6 +42,7 @@
   - [📄 License](#-license)
   - [👥 Authors](#-authors)
   - [🙏 Acknowledgments](#-acknowledgments)
+  - [🔗 Additional Resources](#-additional-resources)
 
 ---
 
@@ -47,6 +58,28 @@
 - **🛡️ Safety Features**: Emergency stop and edge detection
 - **📱 Mobile Friendly**: Responsive web interface for smartphone control
 - **🔧 Modular Design**: Easy component replacement and upgrades
+
+> **🌐 For detailed feature descriptions and technical specifications, visit our [complete project website](https://glowing-granita-8fe486.netlify.app/)**
+
+---
+
+## 🎥 Video Tutorial Series
+
+Follow our comprehensive YouTube playlist covering every aspect of building and programming the Solar PV Cleaner:
+
+**📺 [Complete Tutorial Playlist](https://www.youtube.com/playlist?list=PLrZbkNpNVSwxkeTpdWLuhH0i63HLL73QL)**
+
+### **Tutorial Episodes:**
+1. **Project Overview & Demonstration** - System capabilities and introduction
+2. **ESP32 Arduino IDE Setup** - Programming environment configuration 
+3. **Sensor Integration Tutorial** - HC-SR04 ultrasonic sensor implementation
+4. **Motor Control System** - L298N driver and multi-motor coordination
+5. **Water Management System** - Pump control and TIP120 transistor circuit
+6. **Web Interface Development** - WiFi setup and control panel
+7. **Mechanical Assembly** - Frame construction and component mounting
+8. **Testing & Calibration** - Real-world performance optimization
+9. **Troubleshooting Guide** - Common issues and solutions
+10. **Advanced Features** - Customizations and enhancements
 
 ---
 
@@ -99,6 +132,8 @@
 | **Water Distribution System** | Pipe network with valves | Manages water flow distribution |
 | **Water Reservoir/Tank** | Water storage container | Holds cleaning water supply |
 
+> **🛍️ For complete parts list with suppliers and pricing, visit the [hardware section](https://glowing-granita-8fe486.netlify.app/#hardware) on our website**
+
 ---
 
 ## 🏗️ System Architecture
@@ -121,6 +156,8 @@
                     │ (Brush + Water) │
                     └─────────────────┘
 ```
+
+> **🏗️ For detailed system architecture and design principles, visit the [architecture section](https://glowing-granita-8fe486.netlify.app/#architecture) on our website**
 
 ---
 
@@ -145,6 +182,8 @@
 ### Web Interface
 ![Web Control Interface](https://github.com/HorizonHnk/Solar-PV-Cleaning-System/blob/main/website.png?raw=true)
 *Responsive web interface for remote monitoring and control via WiFi*
+
+> **🖼️ View more images and interactive gallery at [glowing-granita-8fe486.netlify.app/#gallery](https://glowing-granita-8fe486.netlify.app/#gallery)**
 
 ---
 
@@ -190,7 +229,7 @@
 - **Development Environment**: Compatible with Windows, macOS, Linux
 - **Programming Language**: C++ (Arduino Framework)
 
-> **📁 Note**: This repository focuses on system documentation and images. Code implementation will be provided in a separate repository.
+> **📁 Note**: Complete installation guides and code are available on our [project website](https://glowing-granita-8fe486.netlify.app/#docs) and [YouTube tutorials](https://www.youtube.com/playlist?list=PLrZbkNpNVSwxkeTpdWLuhH0i63HLL73QL)
 
 ---
 
@@ -225,15 +264,14 @@ The system creates a WiFi access point with a responsive web interface:
 - Speed adjustment slider
 - Individual motor control
 
----
+> **📱 For detailed usage instructions and interface guide, visit our [website documentation](https://glowing-granita-8fe486.netlify.app/#docs)**
 
-## 🔌 Circuit Diagram
+---
 
 ## 🔌 Circuit Diagram
 
 ![Complete Circuit Diagram](https://github.com/HorizonHnk/Solar-PV-Cleaning-System/blob/main/new%20Untitled.png?raw=true)
 *Comprehensive wiring diagram showing all connections*
-
 
 ### Connection Summary
 - **ESP32 Controller**: Central processing and WiFi communication
@@ -242,7 +280,7 @@ The system creates a WiFi access point with a responsive web interface:
 - **Water System**: Pump control and flow management
 - **Power Management**: Multiple voltage rails and regulation
 
-> **⚠️ Important**: Refer to the detailed circuit images for exact pin connections and component values
+> **⚠️ Important**: Refer to the detailed circuit images and our [website circuit section](https://glowing-granita-8fe486.netlify.app/#gallery) for exact pin connections and component values
 
 ---
 
@@ -282,7 +320,7 @@ solar-pv-cleaning-system/
 └── 📄 HARDWARE_LIST.md               # Complete component list
 ```
 
-> **📝 Note**: This repository contains project documentation, images, and design files. Source code is maintained separately for modular development.
+> **📝 Note**: This repository contains project documentation, images, and design files. Source code and detailed guides are available on our [project website](https://glowing-granita-8fe486.netlify.app/) and [YouTube channel](https://www.youtube.com/playlist?list=PLrZbkNpNVSwxkeTpdWLuhH0i63HLL73QL)
 
 ---
 
@@ -322,7 +360,7 @@ solar-pv-cleaning-system/
 - **Safety Margins**: Adjustable edge detection sensitivity
 - **Scheduling**: Automatic cleaning cycles (future feature)
 
-> **📋 Note**: All configuration parameters can be adjusted through the web interface or by modifying the configuration file.
+> **📋 Complete configuration guide**: Visit our [technical specifications](https://glowing-granita-8fe486.netlify.app/#specifications) page for detailed parameter explanations
 
 ---
 
@@ -370,7 +408,8 @@ solar-pv-cleaning-system/
 
 ### Support Resources
 
-- 📖 Check documentation in `/documentation` folder
+- 📖 [Complete troubleshooting guide](https://glowing-granita-8fe486.netlify.app/#docs)
+- 🎥 [Video troubleshooting tutorials](https://www.youtube.com/playlist?list=PLrZbkNpNVSwxkeTpdWLuhH0i63HLL73QL)
 - 🖼️ Reference circuit diagrams in `/images` folder
 - 🔧 Review 3D models for mechanical issues
 - 📧 Contact support for additional assistance
@@ -444,13 +483,27 @@ See also the list of [contributors](https://github.com/HorizonHnk/solar-pv-clean
 
 ---
 
-## 📞 Support & Contact
+## 🔗 Additional Resources
 
+### **🌐 Project Links**
+- **📱 Complete Project Website**: [https://glowing-granita-8fe486.netlify.app/](https://glowing-granita-8fe486.netlify.app/)
+- **🎥 Video Tutorial Series**: [YouTube Playlist](https://www.youtube.com/playlist?list=PLrZbkNpNVSwxkeTpdWLuhH0i63HLL73QL)
+- **📁 GitHub Repository**: [Solar PV Cleaning System](https://github.com/HorizonHnk/solar-pv-cleaning-system)
+
+### **📞 Support & Contact**
 - **📧 Email**: hhnk3693@gmail.com
 - **🐛 Issues**: [GitHub Issues](https://github.com/HorizonHnk/solar-pv-cleaning-system/issues)
 - **📖 Wiki**: [Project Wiki](https://github.com/HorizonHnk/solar-pv-cleaning-system/wiki)
 - **💬 Discussions**: [GitHub Discussions](https://github.com/HorizonHnk/solar-pv-cleaning-system/discussions)
-- **📁 Repository**: [Solar PV Cleaning System](https://github.com/HorizonHnk/solar-pv-cleaning-system)
+
+### **📚 Documentation Sections**
+- [Introduction & Overview](https://glowing-granita-8fe486.netlify.app/#introduction)
+- [Complete Feature List](https://glowing-granita-8fe486.netlify.app/#features)
+- [System Architecture](https://glowing-granita-8fe486.netlify.app/#architecture)
+- [Hardware Components](https://glowing-granita-8fe486.netlify.app/#hardware)
+- [Project Gallery](https://glowing-granita-8fe486.netlify.app/#gallery)
+- [Technical Specifications](https://glowing-granita-8fe486.netlify.app/#specifications)
+- [Documentation & Guides](https://glowing-granita-8fe486.netlify.app/#docs)
 
 ---
 
@@ -460,4 +513,8 @@ See also the list of [contributors](https://github.com/HorizonHnk/solar-pv-clean
 
 ---
 
-> **⚠️ Safety Notice**: This project involves electrical components and water. Always follow proper safety procedures, disconnect power when making connections, and test in a safe environment before deployment.
+> **⚠️ Safety Notice**: This project involves electrical components and water. Always follow proper safety procedures, disconnect power when making connections, and test in a safe environment before deployment. For detailed safety guidelines, visit our [website documentation](https://glowing-granita-8fe486.netlify.app/#docs).
+
+---
+
+**🚀 Ready to build your own Solar PV Cleaner? Start with our [complete tutorial series](https://www.youtube.com/playlist?list=PLrZbkNpNVSwxkeTpdWLuhH0i63HLL73QL) and visit our [project website](https://glowing-granita-8fe486.netlify.app/) for comprehensive guides!**
