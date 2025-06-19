@@ -127,7 +127,7 @@
 ## 📷 System Images
 
 ### System Overview
-![Solar Cleaning System Overview](images/system-overview.png)
+![Solar Cleaning System Overview](https://github.com/HorizonHnk/Solar-PV-Cleaning-System/blob/main/Block%20diagram.png?raw=true)
 *Complete solar panel cleaning robot with ESP32 controller, ultrasonic sensors, and cleaning mechanisms*
 
 ### Electronic Components Layout
