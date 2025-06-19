@@ -139,7 +139,7 @@
 *Frame, rails, brushes, and water distribution system for effective panel cleaning*
 
 ### Circuit Connections
-![Circuit Diagram](images/circuit-diagram.png)
+![Circuit Diagram](https://github.com/HorizonHnk/Solar-PV-Cleaning-System/blob/main/new.png?raw=true)
 *Detailed wiring diagram showing ESP32 connections to motors, sensors, and pump control*
 
 ### Web Interface
