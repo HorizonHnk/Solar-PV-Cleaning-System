@@ -234,9 +234,6 @@ The system creates a WiFi access point with a responsive web interface:
 ![Complete Circuit Diagram](https://github.com/HorizonHnk/Solar-PV-Cleaning-System/blob/main/Arduino%20Components.png?raw=true)
 *Comprehensive wiring diagram showing all connections*
 
-![ESP32 Pinout](https://github.com/HorizonHnk/Solar-PV-Cleaning-System/blob/main/Block%20diagram.png?raw=true)
-*ESP32 development board pin assignments*
-
 
 ### Connection Summary
 - **ESP32 Controller**: Central processing and WiFi communication
